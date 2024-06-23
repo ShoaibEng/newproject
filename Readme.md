@@ -1,1 +1,1 @@
-# SThis is new project for website developmentgit 
+# This is new project for website developmentgit
